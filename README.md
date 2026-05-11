@@ -20,7 +20,6 @@ Program to implement the the Logistic Regression Model to Predict the Placement 
 Developed by: Vanathi T
 RegisterNumber: 212225040480
 */
-```
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
