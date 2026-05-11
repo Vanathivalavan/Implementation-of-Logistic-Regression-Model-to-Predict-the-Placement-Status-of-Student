@@ -9,8 +9,11 @@ To write a program to implement the the Logistic Regression Model to Predict the
 
 ## Algorithm
 1.Data Collection and Preprocessing
+
 2.Feature Selection and Model Training
+
 3.Prediction and Classification
+
 4.Model Evaluation Efficiently
 
 ## Program:
